@@ -1,0 +1,15 @@
+.game {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.game-board {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 1px;
+}
+
+.game-info {
+  margin-left: 20px;
+}

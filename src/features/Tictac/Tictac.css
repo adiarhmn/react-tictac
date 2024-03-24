@@ -1,0 +1,4 @@
+div.board {
+  display: flex;
+  flex-direction: column;
+}
